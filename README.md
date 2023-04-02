@@ -1,5 +1,6 @@
 # Reading Notes
 **About**
+
 ***This repo contains my notes on the reading materials for my coding lectures ***
 * ##Code 102 - Intro to Software Development
 * ##Code 201 - Foundations of Software Development
