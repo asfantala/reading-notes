@@ -20,7 +20,10 @@ means that the function will continue to call itself and repeat its behavior unt
 ### The difference between Python modules and packages
 
 modules are individual files containing code, while packages are directories containing one or more modules
+* modules are individual files containing code, while packages are directories containing one or more modules
+
 
 ---------
 ### Things I want to know more about
+
 just i want to master using recursion 
