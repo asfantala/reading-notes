@@ -13,6 +13,7 @@
 | #  | calss | 
 | -------- | ---------  | 
 | 1 | [Read class 01](https://github.com/asfantala/reading-notes/tree/main/Read_class01#readme) |
-| 2 | [Read class 02](https://github.com/asfantala/reading-notes/blob/main/Read_class02/README.md) | 
+| 2 | [Read class 02](https://github.com/asfantala/reading-notes/blob/main/Read_class02/README.md) |
+| 3|[Read class 03](https://github.com/asfantala/reading-notes/tree/main/Read_class03)|
 
 ![Screenshot](./assets/octocat-1680463246081.png)
