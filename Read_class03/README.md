@@ -67,3 +67,6 @@ except AssertionError as error:
 finally:
     print('Cleaning up, irrespective of any exception')
  ```
+ 
+ ## Things I want to know more about
+working with bytes
