@@ -12,11 +12,15 @@ But if the code is importing the module from another module, then the __name__  
 
 ------
 
-### the concept of recursion in Python
-means that the function will continue to call itself and repeat its behavior until some condition is met to return a result 
+### The concept of recursion in Python
+
+means that the function will continue to call itself and repeat its behavior until some condition is met to return a result
+ 
 -----
-### the difference between Python modules and packages
+### The difference between Python modules and packages
+
 modules are individual files containing code, while packages are directories containing one or more modules
+
 ---------
 ### Things I want to know more about
 just i want to master using recursion 
