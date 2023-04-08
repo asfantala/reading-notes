@@ -14,3 +14,5 @@ This topic is relevant to our studies because it teaches us how to effectively m
 
 ### I like this qoute :
  __“Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”__
+
+(How to Solve Programming Problems)[https://simpleprogrammer.com/solving-problems-breaking-it-down/]
