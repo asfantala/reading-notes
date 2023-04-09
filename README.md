@@ -12,7 +12,7 @@
 
 | #  | calss | 
 | -------- | ---------  |
-|1||[Mindset](https://github.com/asfantala/reading-notes/tree/main/Mindset#readme)|
+|1||[The growth mindset](https://github.com/asfantala/reading-notes/tree/main/Mindset#readme)|
 | 2|[Engineer reading](https://github.com/asfantala/reading-notes/blob/main/Engineering_reading/README.md)|
 |3|[SQL](https://github.com/asfantala/reading-notes/tree/main/SQL)|
 | 4 | [Read class 01](https://github.com/asfantala/reading-notes/tree/main/Read_class01#readme) |
