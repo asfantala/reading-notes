@@ -12,11 +12,11 @@
 
 | #  | calss | 
 | -------- | ---------  |
-|1||[The growth mindset](https://github.com/asfantala/reading-notes/tree/main/Mindset#readme)|
-| 2|[Engineer reading](https://github.com/asfantala/reading-notes/blob/main/Engineering_reading/README.md)|
-|3|[SQL](https://github.com/asfantala/reading-notes/tree/main/SQL)|
-| 4 | [Read class 01](https://github.com/asfantala/reading-notes/tree/main/Read_class01#readme) |
-| 5 | [Read class 02](https://github.com/asfantala/reading-notes/blob/main/Read_class02/README.md) |
-| 6|[Read class 03](https://github.com/asfantala/reading-notes/tree/main/Read_class03)|
+| 1|[Engineer reading](https://github.com/asfantala/reading-notes/blob/main/Engineering_reading/README.md)|
+|2|[SQL](https://github.com/asfantala/reading-notes/tree/main/SQL)|
+| 3 | [Read class 01](https://github.com/asfantala/reading-notes/tree/main/Read_class01#readme) |
+| 4 | [Read class 02](https://github.com/asfantala/reading-notes/blob/main/Read_class02/README.md) |
+| 5|[Read class 03](https://github.com/asfantala/reading-notes/tree/main/Read_class03)|
+|6|[growth mindset](https://github.com/asfantala/reading-notes/tree/main/Mindset#readme)|
 
 ![Screenshot](./assets/octocat-1680463246081.png)
