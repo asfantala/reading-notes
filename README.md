@@ -18,5 +18,6 @@
 | 4 | [Read class 02](https://github.com/asfantala/reading-notes/blob/main/Read_class02/README.md) |
 | 5|[Read class 03](https://github.com/asfantala/reading-notes/tree/main/Read_class03)|
 |6|[growth mindset](https://github.com/asfantala/reading-notes/tree/main/Mindset#readme)|
+|7|[topics](https://github.com/asfantala/reading-notes/tree/main/topic)|
 
 ![Screenshot](./assets/octocat-1680463246081.png)
