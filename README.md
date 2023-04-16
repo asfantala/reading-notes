@@ -20,5 +20,5 @@
 |6|[growth mindset](https://github.com/asfantala/reading-notes/tree/main/Mindset#readme)|
 |7|[topics](https://github.com/asfantala/reading-notes/tree/main/topic)|
 |8|[linked list](https://github.com/asfantala/reading-notes/tree/main/Linked_list#readme)|
-
+|9|[class 6](https://github.com/asfantala/reading-notes/tree/main/Read_class06)|
 ![Screenshot](./assets/octocat-1680463246081.png)
