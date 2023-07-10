@@ -25,3 +25,55 @@
     3. Collect static files   
     > python manage.py collectstatic
     
+
+### What is the purpose of Cross-Origin Resource Sharing (CORS) in web applications, and how can it be implemented and configured in a Django project to control access to resources?
+- Cross-Origin Resource Sharing (CORS) is a mechanism that allows a web application running at one origin to access the resources from a server running at a different origin. This is useful for making AJAX requests to a different domain.
+
+- CORS can be implemented in a Django project by installing the django-cors-headers library and adding the following lines to your settings.py file:
+```python
+
+INSTALLED_APPS = [
+    ...
+    'corsheaders',
+]
+
+MIDDLEWARE = [
+    ...
+    'corsheaders.middleware.CorsMiddleware',
+]
+
+CORS_ALLOWED_ORIGINS = [
+    'http://example.com',
+    'https://example.com',
+]
+
+CORS_ALLOWED_HEADERS = [
+    'accept',
+    'accept-encoding',
+    'authorization',
+    'content-type',
+    'dnt',
+    'origin',
+    'user-agent',
+    'x-csrftoken',
+    'x-requested-with',
+]
+
+CORS_ALLOWED_METHODS = [
+    'GET',
+    'POST',
+    'PUT',
+    'PATCH',
+    'DELETE',
+]
+
+CORS_ALLOW_CREDENTIALS = True
+
+```
+
+- To configure CORS in a Django project, you need to:
+
+    1. Install the django-cors-headers package.
+    2. Add corsheaders to the INSTALLED_APPS list in your settings.py file.
+    3. Add the corsheaders.middleware.CorsMiddleware middleware to the MIDDLEWARE list in your settings.py file.
+    4. Configure the CORS settings in your settings.py file.
